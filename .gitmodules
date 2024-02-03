@@ -1,6 +1,3 @@
 [submodule "local-cat"]
 	path = local-cat
 	url = https://github.com/cheshire-cat-ai/local-cat
-[submodule "business-assistant"]
-	path = business-assistant
-	url = https://github.com/cannox227/business-assistant
